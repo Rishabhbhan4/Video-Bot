@@ -45,7 +45,7 @@ async def cbstart(_, query: CallbackQuery):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Federation", url="https://t.me/ronaldofedban"
+                        "🌐 Source Code", url="https://github.com/Rishabhbhan4/Video-Bot"
                     )
                 ],
             ]
