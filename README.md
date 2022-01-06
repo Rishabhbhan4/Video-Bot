@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/lisaSupportChat"><img src="https://github.com/Rishabhbhan4/video-Bot/raw/main/driver/Rishabhlogo.png"></a></p>
+<p align="center"><a href="https://t.me/lisaSupportChat"><img src="https://telegra.ph/file/7c8bcddf19da2584e70ed.jpg"></a></p>
 <p align="center">
     <br><b>Video Bot is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
@@ -43,7 +43,7 @@
 ## 🛠 Commands:
 | Command | Description |
 | ------ | ------ |
-| `/mplay (query)` | play music from youtube |
+| `/play (query)` | play music from youtube |
 | `/vplay (query)` | play video from youtube |
 | `/vstream (live link)` | play video live streaming video |
 | `/pause` | pause the streaming (admin only) |
@@ -79,7 +79,7 @@ curl -sL https://deb.nodesource.com/setup_16.x | bash -
 sudo apt-get install -y nodejs
 npm i -g npm
 git clone https://github.com/Rishabhbhan4/video-Bot # clone the repo.
-cd video-stream
+cd video-Bot
 pip3 install -U -r requirements.txt
 cp example.env .env # use vim to edit ENVs
 vim .env # fill up the ENVs (Steps: press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file).
