@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/lisaSupportChat"><img src="https://telegra.ph/file/7c8bcddf19da2584e70ed.jpg"></a></p>
+<p align="center"><a href="https://t.me/lisaSupportChat"><img src="https://te.legra.ph/file/bb57ccbd4be51218fccb6.jpg"></a></p>
 <p align="center">
     <br><b>Video Bot is an Advanced Telegram Bot that's allow you to play Video & Music on Telegram Group Video Chat</b><br>
 </p>
