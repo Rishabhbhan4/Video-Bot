@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By Veez Music-Project
+# Copyright (C) 2021 By Rishabh Music-Project
 
 from __future__ import unicode_literals
 
