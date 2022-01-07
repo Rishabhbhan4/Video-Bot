@@ -1,4 +1,4 @@
-# Copyright (C) 2021 Veez Project
+# Copyright (C) 2021 Rishabh Project
 
 import re
 import uuid
