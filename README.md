@@ -16,6 +16,9 @@
     <a href="https://github.com/Rishabhbhan4/video-Bot/network/members"> <img src="https://img.shields.io/github/stars/Rishabhbhan4/Video-Bot?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
+Can be found on Telegram as [Jennie Music Bot 💞](https://t.me/JennieKimMusicBot)</br>
+
+
 ## 📊 Stats
 [![CodeFactor](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot/badge)](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot)
 
