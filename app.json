@@ -52,7 +52,7 @@
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "JennieHelpbot"
+            "value": "RishabhHelpbot"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
