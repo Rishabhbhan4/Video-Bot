@@ -1,6 +1,6 @@
-<p align="center"><b>🎵 Video Bot 🎵</b></p>
+<h1 align = "center"> 🎵 Video Bot 🎵 </h1>
 
-<p align="center"><b> Video is a Music powerfull bot for playing music (Video or Audio) on telegram voice chat groups. </b></p>
+<p align="center"><b> Video Bot is a Music powerfull bot for playing music (Video or Audio) on telegram voice chat groups. </b></p>
 
 
 <p align="center"><a href="https://t.me/lisaSupportChat"><img src="https://te.legra.ph/file/bb57ccbd4be51218fccb6.jpg"></a></p>
