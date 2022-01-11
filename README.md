@@ -18,6 +18,7 @@
 
 Can be found on Telegram as [Jennie Music Bot 💞](https://t.me/JennieKimMusicBot)</br>
 
+### 🔎 Support Inline Search
 
 ## 📊 Stats
 [![CodeFactor](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot/badge)](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot)
