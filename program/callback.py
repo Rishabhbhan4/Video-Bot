@@ -43,6 +43,9 @@ async def cbstart(_, query: CallbackQuery):
                         "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
+                [   
+                    InlineKeyboardButton(text="[► Inline ◄]", switch_inline_query_current_chat=""),
+                ],
                 [
                     InlineKeyboardButton(
                         "🌐 Source Code", url="https://github.com/Rishabhbhan4/Video-Bot"
