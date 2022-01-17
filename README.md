@@ -38,7 +38,8 @@ Can be found on Telegram as [Jennie Bot ❤](https://t.me/JennieKim1_bot)</br>
 The easy way to host this bot, deploy to Heroku.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rishabhbhan4/video-Bot)
-
+<p><a href="https://vegetaxd.me/Video-bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+    
 ## VPS Deployment 🎵
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
 
