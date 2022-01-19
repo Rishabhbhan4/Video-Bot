@@ -65,5 +65,7 @@ python3 main.py # run the bot.
 - [Rishabh](https://github.com/Rishabhbhan4) ``Dev``
 - [Rishabh](https//gitHub.com/Rishabhbhan5) ``Dev``
 - [Veez Music](https://github.com/levina-lab/veezmusic) Veez Music
-### Support & Updates 🎑
-<a href="https://t.me/lisaSupportChat"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/JennieHelpBots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+------
+## Telegram Support & Updates 🏢
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lisaSupportChat)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/JennieHelpBots)
