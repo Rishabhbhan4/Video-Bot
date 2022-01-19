@@ -27,7 +27,8 @@ Can be found on Telegram as [Jennie Bot ❤](https://t.me/JennieKim1_bot)</br>
 
 ## 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Rishabhbhan5/Rishabh-String-Session#main.py) ``Pyrogram``
+ [![GenerateString](https://te.legra.ph/file/e63dc76bc56a39f3383ab.jpg)](https://replit.com/@Rishabhbhan5/Rishabh-String-Session#main.py)
+
 
 ## 🎭 Preview
 <p align="center">
