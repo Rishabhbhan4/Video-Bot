@@ -92,8 +92,12 @@ async def start_(client: Client, message: Message):
             ]
         ),
         disable_web_page_preview=True,
-    )
 
+        await message.reply_photo(
+        photo=f"{ALIVE_IMG}",
+        caption=start,
+        reply_markup=keyboard,
+    )
 
 @Client.on_message(
     command(["alive", f"alive@{BOT_USERNAME}"]) & filters.group & ~filters.edited
