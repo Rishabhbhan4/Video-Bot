@@ -114,7 +114,7 @@ async def alive(client: Client, message: Message):
         ]
     )
 
-    alive = f"**Hello {message.from_user.mention()}, i'm {BOT_NAME}**\n\n✨ Bot is working normally\n🍀 My Master: [{ALIVE_NAME}](https://t.me/{OWNER_NAME})\n✨ Bot Version: `v{__version__}`\n🍀 Pyrogram Version: `{pyrover}`\n✨ Python Version: `{__python_version__}`\n🍀 PyTgCalls version: `{pytover.__version__}`\n✨ Uptime Status: `{uptime}`\n\n**Thanks for Adding me here, for playing video & music on your Group's video chat** ❤"
+    alive = f"**Hii {message.from_user.mention()}, i'm {BOT_NAME}**\n\n♡ Bot is working properly\n♡ My Master: [{ALIVE_NAME}](https://t.me/{OWNER_NAME})\n♡ Bot Version: `v{__version__}`\n♡ Pyrogram Version: `{pyrover}`\n♡ Python Version: `{__python_version__}`\n♡ PyTgCalls version: `{pytover.__version__}`\n♡ Uptime Status: `{uptime}`\n\n**Thanks for Adding me here, for playing video & music on your Group's voice chat** ❤"
 
     await message.reply_photo(
         photo=f"{ALIVE_IMG}",
@@ -150,17 +150,20 @@ async def new_chat(c: Client, m: Message):
     for member in m.new_chat_members:
         if member.id == bot_id:
             return await m.reply(
-                "❤️ **Thanks for adding me to the Group !**\n\n"
+                "💞 **Thanks for adding me to the Group !**\n\n"
                 "**Promote me as administrator of the Group, otherwise I will not be able to work properly, and don't forget to type /userbotjoin for invite the assistant.**\n\n"
                 "**Once done, type** /reload",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("📣 Channel", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/{GROUP_SUPPORT}")
+                            InlineKeyboardButton("📢 Channel", url=f"https://t.me/{UPDATES_CHANNEL}"),
+                            InlineKeyboardButton("💬 Support", url=f"https://t.me/{GROUP_SUPPORT}")
                         ],
                         [
-                            InlineKeyboardButton("👤 Assistant", url=f"https://t.me/{ass_uname}")
+                            InlineKeyboardButton("👤 Assistance", url=f"https://t.me/{ass_uname}")
+                        ]
+                        [
+                            InlineKeyboardButton("🌐 Source Code", url=f"https://github.com/Rishabhbhan4/Video-Bot")
                         ]
                     ]
                 )
