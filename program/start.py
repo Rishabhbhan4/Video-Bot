@@ -52,8 +52,9 @@ async def _human_time_duration(seconds):
     command(["start", f"start@{BOT_USERNAME}"]) & filters.private & ~filters.edited
 )
 async def start_(client: Client, message: Message):
-    await message.reply_text(
-        f"""♡ **Welcome {message.from_user.mention()} !**\n
+    await message.reply_photo(
+        photo=f"https://te.legra.ph/file/2d9ad152dbe701cb7079f.jpg",
+      Caption=f"""♡ **Welcome {message.from_user.mention()} !**\n
 💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **Allows you to play music and video on groups through the new Telegram's video chats!**
 
 ❂ **For Bot's commands, please click on the » 📁 Commands button!**
@@ -92,10 +93,7 @@ async def start_(client: Client, message: Message):
             ]
         ),
         disable_web_page_preview=True,
-
-        await message.reply_photo(
-        photo=f"https://te.legra.ph/file/2d9ad152dbe701cb7079f.jpg",      
-    )
+       )
 
 @Client.on_message(
     command(["alive", f"alive@{BOT_USERNAME}"]) & filters.group & ~filters.edited
