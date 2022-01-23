@@ -200,8 +200,8 @@ async def vplay(c: Client, m: Message):
                     url = search[1]
                     duration = search[2]
                     thumbnail = search[3]
-                    veez, ytlink = await ytdl(url)
-                    if veez == 0:
+                    jennie, ytlink = await ytdl(url)
+                    if jennie == 0:
                         await loser.edit(f"❌ yt-dl issues detected\n\n» `{ytlink}`")
                     else:
                         if chat_id in QUEUE:
