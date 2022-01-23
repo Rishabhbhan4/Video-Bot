@@ -35,7 +35,7 @@ Can be found on Telegram as [Jennie Bot ❤](https://t.me/JennieKim1_bot)</br>
   <img src="https://telegra.ph/file/29186dec7e882598a144e.jpg">
 </p>
 
-## Heroku Deployment ❤️
+## Heroku Deployment <img src="./ImageFont/Kenred.gif" width="40px">
 The easy way to host this bot, deploy to Heroku.
 
 [![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/Rishabhbhan4/video-Bot)
