@@ -94,9 +94,7 @@ async def start_(client: Client, message: Message):
         disable_web_page_preview=True,
 
         await message.reply_photo(
-        photo=f"{ALIVE_IMG}",
-        caption=start,
-        reply_markup=keyboard,
+        photo=f"https://te.legra.ph/file/2d9ad152dbe701cb7079f.jpg",      
     )
 
 @Client.on_message(
