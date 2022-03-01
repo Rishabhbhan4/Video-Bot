@@ -12,9 +12,6 @@ Can be found on Telegram as [Jennie Bot ❤](https://t.me/JennieKim1_bot)</br>
 
 ### 🔎 Support Inline Search
 
-## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot/badge)](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot)
-
 ## 🧪 Get `SESSION_NAME` from below:
 
  [![GenerateString](https://te.legra.ph/file/e63dc76bc56a39f3383ab.jpg)](https://replit.com/@Rishabhbhan5/Rishabh-String-Session#main.py)
