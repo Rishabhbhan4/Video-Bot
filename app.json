@@ -9,8 +9,8 @@
         "pyrogram"
     ],
     "website": "https://t.me/lisaSupportchat",
-    "repository": "https://github.com/Rishabhbhan5/video-Bot",
-    "success_url": "https://t.me/Rishu_05",
+    "repository": "https://github.com/Ritikkashyap7/video-Bot",
+    "success_url": "https://t.me/Ritik_kashyap_7",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -47,22 +47,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": true,
-            "value": "lisaSupportChat"
+            "value": "https://t.me/Yarri_Ka_Circle_7"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": true,
-            "value": "RishabhHelpbot"
+            "value": "https://t.me/Yarri_Ka_Circle_7"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": true,
-            "value": "Rishu_05"
+            "value": "Ritik_kashyap_7"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": true,
-            "value": "Rishabh"
+            "value": "Ritik"
         }
     },
     "addons": [],
