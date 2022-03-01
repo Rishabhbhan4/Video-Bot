@@ -76,18 +76,18 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "[► Official Group ◄]", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "[👥 Official Group ◄]", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "[► Official Channel ◄]", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "[📢 Official Channel ]", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
                 [   
-                    InlineKeyboardButton(text="[► Inline ◄]", switch_inline_query_current_chat=""),
+                    InlineKeyboardButton(text="[🔎 Inline ]", switch_inline_query_current_chat=""),
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 Source Code", url="https://github.com/Rishabhbhan4/Video-Bot"
+                        "🌐 Source Code", url="https://github.com/Ritikkashyap7/Love_Video-Bot"
                     )
                 ],
             ]
