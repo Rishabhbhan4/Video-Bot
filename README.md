@@ -54,5 +54,5 @@ python3 main.py # run the bot.
 - [Veez Music](https://github.com/levina-lab/veezmusic) Veez Music
 ------
 ## Telegram Support & Updates 🏢
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lisaSupportChat)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/JennieHelpBots)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Yarri_Ka_Circle_7)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Yarri_Ka_Circle_7)
