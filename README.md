@@ -40,8 +40,11 @@ The easy way to host this bot, deploy to Heroku.
 Click On The Image To Deploy
 [![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/Rishabhbhan4/video-Bot)
 
-<p><a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FRishabhbhan4%2FVideo-Bot&envs=name%2Cowner%2CToken"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
+##Railway Deployment
+
+<h4>Click the button below to deploy VideoBot on Railway!</h4>
+<p><a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FRishabhbhan4%2FVideo-Bot&envs=name%2Cowner%2CToken"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 
 ## 🚀 Okteto Deployment
@@ -49,8 +52,10 @@ Click On The Image To Deploy
 <h4>Click the button below to deploy VideoBot on Okteto!</h4>
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/Rishabhbhan4/Video-Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
+
 ## Deploy to Koyeb
 
+<h4>Click the button below to deploy VideoBot on koyeb!</h4>
 <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Rishabhbhan4/Video-Bot&branch=Main&name=Video-bot"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Koyeb-black?style=for-the-badge&logo=koyeb&logoColor=white"/></a> 
 
 ***[Deploy on MOGENIOUS](https://github.com/Rishabhbhan4/video-bot/wiki/Deploy-on-MOGENIOUS)***
