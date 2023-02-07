@@ -47,7 +47,7 @@ Click On The Image To Deploy
 
 ## Deploy to Koyeb
 
-  ㅤ ㅤ   ㅤ <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Rishabhbhan5/UPLOADER-BOT-V2&branch=Master&name=uploaderbotv2"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Koyeb-black?style=for-the-badge&logo=koyeb&logoColor=white"/></a> 
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Rishabhbhan5/Video-Bot&branch=Main&name=uploaderbotv2"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Koyeb-black?style=for-the-badge&logo=koyeb&logoColor=white"/></a> 
 
 ***[Deploy on MOGENIOUS](https://github.com/Rishabhbhan4/video-bot/wiki/Deploy-on-MOGENIOUS)***
 
