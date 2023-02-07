@@ -40,6 +40,10 @@ The easy way to host this bot, deploy to Heroku.
 Click On The Image To Deploy
 [![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/Rishabhbhan4/video-Bot)
 
+<p><a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FRishabhbhan4%2FVideo-Bot&envs=name%2Cowner%2CToken"><img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+
+
+
 ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy VideoBot on Okteto!</h4>
