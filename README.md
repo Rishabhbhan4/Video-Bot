@@ -45,6 +45,10 @@ Click On The Image To Deploy
 <h4>Click the button below to deploy VideoBot on Okteto!</h4>
 <a href="https://cloud.okteto.com/deploy?repository=https://github.com/Rishabhbhan4/Video-Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
+## Deploy to Koyeb
+
+  ㅤ ㅤ   ㅤ <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Rishabhbhan5/UPLOADER-BOT-V2&branch=Master&name=uploaderbotv2"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Koyeb-black?style=for-the-badge&logo=koyeb&logoColor=white"/></a> 
+
 ***[Deploy on MOGENIOUS](https://github.com/Rishabhbhan4/video-bot/wiki/Deploy-on-MOGENIOUS)***
 
 ## VPS Deployment 🎵
