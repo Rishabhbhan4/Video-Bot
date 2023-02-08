@@ -84,7 +84,7 @@ python3 main.py # run the bot.
 
 - [Rishabh](https://github.com/Rishabhbhan4) ``Dev``
 - [Rishabh](https//gitHub.com/Rishabhbhan5) ``Dev``
-- [Veez Music](https://github.com/levina-lab/veezmusic) Veez Music
+- [Veez Music](https://github.com/levina-lab/veezmusic) ``Veez Music``
 ------
 ## Telegram Support & Updates 🏢
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/lisaSupportChat)
