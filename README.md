@@ -38,7 +38,7 @@ Can be found on Telegram as [Jennie Bot ❤](https://t.me/JennieKim1_bot)</br>
 ## Heroku Deployment <img src="./ImageFont/Kenred.gif" width="40px">
 The easy way to host this bot, deploy to Heroku.
 Click On The Image To Deploy
-[![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/Rishabhbhan4/video-Bot)
+[![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/log-afk-xD/video-Bot)
 
 
 ## Railway Deployment
